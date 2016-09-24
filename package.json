@@ -1,6 +1,6 @@
 {
-  "name": "interview",
-  "description": "Character voting app for EVE Online",
+  "name": "NigthsOn",
+  "description": "Find nearby events and meet interesting people!",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
