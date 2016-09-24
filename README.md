@@ -10,13 +10,13 @@ https://nodejs.org/en/download/
 
 Download the repository to your local machine
 
-``git clone git@github.com:kulkarniachyut/React-Startup-Alt.git``
+``git clone git@github.com:kulkarniachyut/NightsOn.git``
 
 ## Setting up your repository :
 
 Go to the root directory of your local repository
 
-``cd React-Startup-Alt``
+``cd NightsOn``
 
 ## Install Node modules :
 
